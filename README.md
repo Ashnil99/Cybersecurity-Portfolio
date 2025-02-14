@@ -1,3 +1,9 @@
+My portfolio is present in both English and Turkish. 
+# 01. Cybersecurity Analyst Incident Report
+![image](https://github.com/user-attachments/assets/f18e0757-4b06-4f59-a3c5-23bccbcca42f)
+![image](https://github.com/user-attachments/assets/117fc9e2-5203-4b46-bca7-c9e636977f29)
+
+
 # 01. Sibergüvenlik Analisti Rapor Örneğim (TURKISH)
 ![image](https://github.com/user-attachments/assets/42794544-c8c9-4c48-aae8-0761feefc781)
 ![image](https://github.com/user-attachments/assets/8ca9d8b2-fb26-4160-bcd4-f979a74e0d4b)
