@@ -1,6 +1,6 @@
 
- * My portfolio is present in both English and Turkish. <br>
-<br>
+ * My portfolio is present in both English and Turkish. <br> <br>
+
  * Portfolyom hem Türkçe hem İngilizce olarak mevcuttur.
 
 # 01. Cybersecurity Analyst Incident Report (ENGLISH)
