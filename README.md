@@ -24,3 +24,9 @@
 
 # 03. Brute Force Saldırısı ve Çözümleri<br>
 ![image](https://github.com/user-attachments/assets/33cddf79-0da7-4ef2-a7c1-7e673ad5b61b)<br>
+
+# 04. Network Security Hardening 
+![image](https://github.com/user-attachments/assets/0f3be61c-8c03-4f18-a89e-ab6516c65d4e)
+
+# 04. Ağ Güvenliğini Sağlamlaştırma
+![image](https://github.com/user-attachments/assets/107420d9-0083-4f33-8506-06e0544f8745)
