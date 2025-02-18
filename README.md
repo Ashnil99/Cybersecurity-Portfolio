@@ -17,7 +17,7 @@
 ![image](https://github.com/user-attachments/assets/6d9d2e32-1556-434d-853f-77f797453178)<br>
 
 # 02. SYN Flood Saldırısı Analizi (TURKISH)<br>
-![image](https://github.com/user-attachments/assets/7d31d7bd-ff40-4deb-a62e-258e0d7ea87d)<br>
+![image](https://github.com/user-attachments/assets/ede8262b-9725-41cd-8e28-4b6f9c2ee640)<br>
 
 # 03. Brute Force Attack and Solutions<br>
 ![image](https://github.com/user-attachments/assets/9f803c29-5de1-416d-88b0-371f45d5cf37) <br>
