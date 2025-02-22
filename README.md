@@ -28,5 +28,4 @@
 # 04. Network Security Hardening 
 ![image](https://github.com/user-attachments/assets/0f3be61c-8c03-4f18-a89e-ab6516c65d4e)
 
-# 04. Ağ Güvenliğini Sağlamlaştırma
-![image](https://github.com/user-attachments/assets/107420d9-0083-4f33-8506-06e0544f8745)
+
