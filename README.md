@@ -1,4 +1,7 @@
 # 01. Linux Basic Commands <br>
+
+![image](https://github.com/user-attachments/assets/b709ef02-af2f-49ba-9c6d-88e26325f1c0)
+
 Görseldeki rakamlarla belirtilmiş olan komutlar sırasıyla:
 
 1 mkdir: "logs" isimli bir dosya dizini oluşturur <br>
