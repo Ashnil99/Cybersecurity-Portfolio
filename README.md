@@ -1,5 +1,5 @@
 # 01. Linux Basic Commands <br>
-Görseldeki rakamlarla belirtilmiş olan komutlar,
+Görseldeki rakamlarla belirtilmiş olan komutlar sırasıyla:
 
 1 mkdir: "logs" isimli bir dosya dizini oluşturur <br>
 2 rmdir: "temp" dizinini siler <br>
